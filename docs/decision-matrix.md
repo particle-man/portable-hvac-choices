@@ -8,21 +8,45 @@
 
 ## Decision Matrix
 
-| Model | BTU | Noise (dBA) | Energy Class | Price (£) | Purchase Link | Conversion Evidence | 3D Models |
-|-------|-----|-------------|--------------|-----------|---------------|---------------------|-----------|
-| [De'Longhi Pinguino PAC AP98 Gentle Jet](#delonghi-pinguino-pac-ap98-gentle-jet) | 11,500 | 47–56 | A+ | ~£636–800 | [Amazon UK](https://www.amazon.co.uk/DeLonghi-Pinguino-Gentle-Portable-Conditioning/dp/B0F2B4XSSJ), [John Lewis](https://www.johnlewis.com/delonghi-pinguino-ap98-gentlejet-air-conditioner-white-ivory/p113669181) | [Printables #1355319](https://www.printables.com/model/1355319), [woolie.co.uk guide](https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) |
-| [De'Longhi Pinguino PAC EL98](#delonghi-pinguino-pac-el98) | 10,700 | 47–50 (64 max) | A+ | ~£659 | [Amazon UK](https://www.amazon.co.uk/DeLonghi-Pinguino-PACEL98-Conditioner-Efficiency/dp/B08ZC5JBTD), [Aircare](https://aircareappliances.co.uk/products/delonghi-pinguino-pac-el98-eco-10700-portable-air-conditioning-unit) | [Printables #1355319](https://www.printables.com/model/1355319) (compatible Pinguino series), [woolie.co.uk guide](https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) |
-| [De'Longhi Pinguino PAC EL112CST](#delonghi-pinguino-pac-el112cst) | 11,000 | 47–50 (63 max) | A+ | ~£600–700 | [Amazon UK](https://www.amazon.co.uk/DeLonghi-Pinguino-Technology-Conditioner-Efficiency/dp/B09W323QJ5) ⚠️ limited | [Printables #1355319](https://www.printables.com/model/1355319), [woolie.co.uk guide](https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) |
-| [Comfee/Midea MPPFA-12CRN7](#comfeemidea-mppfa-12crn7) | 12,000 | 51–65 | A | ~£374–500 | [Amazon UK](https://www.amazon.co.uk/Comfee-MPPFA-12CRN7-QB6-Portable-Conditioner-Dehumidifier/dp/B07X47H64K) | [Thingiverse #6670170](https://www.thingiverse.com/thing:6670170) (MPPH series), [Printables #1348047](https://www.printables.com/model/1348047) (Midea/Comfee tested) | [MPPH dual-hose kit](https://www.thingiverse.com/thing:6670170), [Midea/Comfee conversion](https://www.printables.com/model/1348047), [MakerWorld](https://makerworld.com/en/models/2261362) |
-| [Beko BP209H](#beko-bp209h) | 9,000 | 51–65 | A | ~£250–350 | [Amazon UK](https://www.amazon.co.uk/BP209H-Portable-Conditioner-Cooling-Heating/dp/B08ZJP696R) | [Printables #968846](https://www.printables.com/model/968846) (model-specific adapter) | [BP209H adapter](https://www.printables.com/model/968846-beko-bp209h-portable-air-conditioner-dual-hose-ada) |
+| Model | BTU | dBA | Class | Price | Buy | Conversion Evidence | 3D Models |
+|-------|----:|----:|:-----:|------:|-----|---------------------|-----------|
+| [PAC AP98 Gentle Jet](#delonghi-pinguino-pac-ap98-gentle-jet) | 11,500 | 47–56 | A+ | £636–800 | [Amazon][ap98-amz], [John Lewis][ap98-jl] | [Printables][p-1355319], [woolie.co.uk][woolie] | [Pinguino adapter][p-1355319-dl] |
+| [PAC EL98](#delonghi-pinguino-pac-el98) | 10,700 | 47–50 | A+ | £659 | [Amazon][el98-amz], [Aircare][el98-ac] | [Printables][p-1355319], [woolie.co.uk][woolie] | [Pinguino adapter][p-1355319-dl] |
+| [PAC EL112CST](#delonghi-pinguino-pac-el112cst) | 11,000 | 47–50 | A+ | £600–700 | [Amazon][el112-amz] (limited) | [Printables][p-1355319], [woolie.co.uk][woolie] | [Pinguino adapter][p-1355319-dl] |
+| [Comfee MPPFA-12CRN7](#comfeemidea-mppfa-12crn7) | 12,000 | 51–65 | A | £374–500 | [Amazon][comfee-amz] | [Thingiverse][t-6670170], [Printables][p-1348047] | [MPPH kit][t-6670170], [Midea mod][p-1348047-dl], [MakerWorld][mw-2261362] |
+| [Beko BP209H](#beko-bp209h) | 9,000 | 51–65 | A | £250–350 | [Amazon][beko-amz] | [Printables][p-968846] (model-specific) | [BP209H adapter][p-968846-dl] |
 
 ### Units with strong conversion evidence but currently out of stock
 
-| Model | BTU | Noise (dBA) | Energy Class | Last Known Price (£) | Conversion Evidence | 3D Models | Notes |
-|-------|-----|-------------|--------------|----------------------|---------------------|-----------|-------|
-| AEG ChillFlex Pro AXP34U338CW | 12,000 | ≤64 | A | ~£440–530 | [Printables #498072](https://www.printables.com/model/498072), [MakerWorld #1641897](https://makerworld.com/en/models/1641897) | [AEG ChillFlex mod](https://www.printables.com/model/498072-dual-hose-mod-for-aeg-chillflex) | Sold out at all verified UK retailers as of April 2026. Check [Orion Air Sales](https://www.orionairsales.co.uk) and [Direct Vacuums](https://www.directvacuums.co.uk) for restocks. |
-| De'Longhi Pinguino PAC N82 ECO | 9,400 | 50–52 (63 max) | A | ~£439–550 | [Printables #1355319](https://www.printables.com/model/1355319) (explicitly lists PAC N82) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) | Discontinued — may appear on eBay or refurb channels. |
-| De'Longhi Pinguino PAC EM93 | 10,500 | 47–50 (63 max) | A | ~£644 | [Printables #1355319](https://www.printables.com/model/1355319), [woolie.co.uk](https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) | Backordered at [Aircare](https://aircareappliances.co.uk/products/delonghi-pinguino-pac-em93-10500-btu-portable-air-conditioner). |
+| Model | BTU | dBA | Class | Last Price | Conversion Evidence | 3D Models | Notes |
+|-------|----:|----:|:-----:|-----------:|---------------------|-----------|-------|
+| AEG ChillFlex Pro AXP34U338CW | 12,000 | ≤64 | A | £440–530 | [Printables][p-498072], [MakerWorld][mw-1641897] | [ChillFlex mod][p-498072-dl] | Sold out everywhere. Check [Orion Air][orion] / [Direct Vacuums][dv] for restocks. |
+| PAC N82 ECO | 9,400 | 50–52 | A | £439–550 | [Printables][p-1355319] (explicitly lists N82) | [Pinguino adapter][p-1355319-dl] | Discontinued — try eBay or refurb. |
+| PAC EM93 | 10,500 | 47–50 | A | £644 | [Printables][p-1355319], [woolie.co.uk][woolie] | [Pinguino adapter][p-1355319-dl] | Backordered at [Aircare][em93-ac]. |
+
+<!-- Reference-style links (keeps table rows compact) -->
+[ap98-amz]: https://www.amazon.co.uk/DeLonghi-Pinguino-Gentle-Portable-Conditioning/dp/B0F2B4XSSJ
+[ap98-jl]: https://www.johnlewis.com/delonghi-pinguino-ap98-gentlejet-air-conditioner-white-ivory/p113669181
+[el98-amz]: https://www.amazon.co.uk/DeLonghi-Pinguino-PACEL98-Conditioner-Efficiency/dp/B08ZC5JBTD
+[el98-ac]: https://aircareappliances.co.uk/products/delonghi-pinguino-pac-el98-eco-10700-portable-air-conditioning-unit
+[el112-amz]: https://www.amazon.co.uk/DeLonghi-Pinguino-Technology-Conditioner-Efficiency/dp/B09W323QJ5
+[comfee-amz]: https://www.amazon.co.uk/Comfee-MPPFA-12CRN7-QB6-Portable-Conditioner-Dehumidifier/dp/B07X47H64K
+[beko-amz]: https://www.amazon.co.uk/BP209H-Portable-Conditioner-Cooling-Heating/dp/B08ZJP696R
+[em93-ac]: https://aircareappliances.co.uk/products/delonghi-pinguino-pac-em93-10500-btu-portable-air-conditioner
+[orion]: https://www.orionairsales.co.uk
+[dv]: https://www.directvacuums.co.uk
+[woolie]: https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/
+[p-1355319]: https://www.printables.com/model/1355319
+[p-1355319-dl]: https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m
+[p-1348047]: https://www.printables.com/model/1348047
+[p-1348047-dl]: https://www.printables.com/model/1348047-single-hose-to-dual-hose-ac-diy-airwell-midea-trot
+[p-968846]: https://www.printables.com/model/968846
+[p-968846-dl]: https://www.printables.com/model/968846-beko-bp209h-portable-air-conditioner-dual-hose-ada
+[p-498072]: https://www.printables.com/model/498072
+[p-498072-dl]: https://www.printables.com/model/498072-dual-hose-mod-for-aeg-chillflex
+[t-6670170]: https://www.thingiverse.com/thing:6670170
+[mw-2261362]: https://makerworld.com/en/models/2261362
+[mw-1641897]: https://makerworld.com/en/models/1641897
 
 ---
 
