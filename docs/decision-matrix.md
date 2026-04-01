@@ -73,6 +73,8 @@
 
 ### De'Longhi Pinguino PAC EL112CST
 
+<img src="../assets/images/delonghi-pac-el112cst.jpg" alt="De'Longhi Pinguino PAC EL112CST" width="280">
+
 - **Cooling capacity:** 11,000 BTU/h (2.9 kW)
 - **Noise:** 47–50 dB(A) operating, 63 dB(A) max sound power
 - **Energy class:** A+
@@ -91,6 +93,8 @@
 ---
 
 ### Comfee/Midea MPPFA-12CRN7
+
+<img src="../assets/images/comfee-mppfa-12crn7.jpg" alt="Comfee/Midea MPPFA-12CRN7" width="280">
 
 - **Cooling capacity:** 12,000 BTU/h (3.5 kW)
 - **Noise:** 51–65 dB(A)
@@ -115,6 +119,8 @@ All use 150mm (5.9") hose connections. The MPPFA series shares the same chassis 
 ---
 
 ### Beko BP209H
+
+<img src="../assets/images/beko-bp209h.jpg" alt="Beko BP209H" width="280">
 
 - **Cooling capacity:** 9,000 BTU/h (2.6 kW)
 - **Noise:** 51 dB(A) min, 65 dB(A) max
