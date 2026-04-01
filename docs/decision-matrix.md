@@ -32,7 +32,7 @@
 
 ### De'Longhi Pinguino PAC AP98 Gentle Jet
 
-![De'Longhi Pinguino PAC AP98 Gentle Jet](../assets/images/delonghi-pac-ap98.jpg)
+<img src="../assets/images/delonghi-pac-ap98.jpg" alt="De'Longhi Pinguino PAC AP98 Gentle Jet" width="280">
 
 - **Cooling capacity:** 11,500 BTU/h (3.3 kW)
 - **Noise:** 47 dB(A) sleep mode, ~52–56 dB(A) max fan
@@ -52,7 +52,7 @@
 
 ### De'Longhi Pinguino PAC EL98
 
-![De'Longhi Pinguino PAC EL98](../assets/images/delonghi-pac-el98.jpg)
+<img src="../assets/images/delonghi-pac-el98.jpg" alt="De'Longhi Pinguino PAC EL98" width="280">
 
 - **Cooling capacity:** 10,700 BTU/h (3.0 kW)
 - **Noise:** 47–50 dB(A) operating, 64 dB(A) max sound power
@@ -131,7 +131,7 @@ All use 150mm (5.9") hose connections. The MPPFA series shares the same chassis 
 
 ### MeacoCool MC Series 10000
 
-![MeacoCool MC Series 10000](../assets/images/meacocool-mc10000.png)
+<img src="../assets/images/meacocool-mc10000.png" alt="MeacoCool MC Series 10000" width="280">
 
 - **Cooling capacity:** 10,000 BTU/h (2.9 kW)
 - **Noise:** 53 dB(A) min, 63 dB(A) max
@@ -152,7 +152,7 @@ All use 150mm (5.9") hose connections. The MPPFA series shares the same chassis 
 
 ### MeacoCool MC Series 12000
 
-![MeacoCool MC Series 12000](../assets/images/meacocool-mc12000.jpg)
+<img src="../assets/images/meacocool-mc12000.jpg" alt="MeacoCool MC Series 12000" width="280">
 
 - **Cooling capacity:** 12,000 BTU/h (3.5 kW)
 - **Noise:** ≤65 dB(A)
