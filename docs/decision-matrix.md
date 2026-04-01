@@ -12,6 +12,9 @@
 |-------|-----|-------------|--------------|-----------|------------|---------------|---------------------|-----------|
 | [De'Longhi Pinguino PAC AP98 Gentle Jet](#delonghi-pinguino-pac-ap98-gentle-jet) | 11,500 | 47–56 | A+ | ~£636–800 | Top (fixed fins, 180° dispersion) | [Amazon UK](https://www.amazon.co.uk/DeLonghi-Pinguino-Gentle-Portable-Conditioning/dp/B0F2B4XSSJ), [John Lewis](https://www.johnlewis.com/delonghi-pinguino-ap98-gentlejet-air-conditioner-white-ivory/p113669181) | [Printables #1355319](https://www.printables.com/model/1355319), [woolie.co.uk guide](https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) |
 | [De'Longhi Pinguino PAC EL98](#delonghi-pinguino-pac-el98) | 10,700 | 47–50 (64 max) | A+ | ~£659 | Top (adjustable louvre) | [Amazon UK](https://www.amazon.co.uk/DeLonghi-Pinguino-PACEL98-Conditioner-Efficiency/dp/B08ZC5JBTD), [Aircare](https://aircareappliances.co.uk/products/delonghi-pinguino-pac-el98-eco-10700-portable-air-conditioning-unit) | [Printables #1355319](https://www.printables.com/model/1355319) (compatible Pinguino series), [woolie.co.uk guide](https://www.woolie.co.uk/article/convert-ac-from-single-hose-to-dual-hose/) | [Pinguino intake adapter](https://www.printables.com/model/1355319-delonghi-pinguino-intake-adapter-with-exhaust-150m) |
+| [MeacoCool MC Series 10000](#meacocool-mc-series-10000) | 10,000 | 53–63 | A | £419.99 | Top (manual louvre, oscillating) | [Meaco UK](https://www.meacodehumidifiers.co.uk/products/meacocool-mc-series-10000btu-portable-air-conditioner-mc10000), [Amazon UK](https://www.amazon.co.uk/MeacoCool-Portable-Conditioners-10000R-8000BTU/dp/B084KKZK42) | [Thingiverse #6684717](https://www.thingiverse.com/thing:6684717) (MC10000 CHR PRO, same chassis) | [Meaco MC dual-hose conversion](https://www.thingiverse.com/thing:6684717) |
+| [MeacoCool MC Series 12000](#meacocool-mc-series-12000) | 12,000 | ≤65 | A | £479.99 | Top (manual louvre, oscillating) | [Meaco UK](https://www.meacodehumidifiers.co.uk/products/meacocool-mc-series-12000btu-portable-air-conditioner-mc12000) | [Thingiverse #6684717](https://www.thingiverse.com/thing:6684717) (MC Series shared chassis) | [Meaco MC dual-hose conversion](https://www.thingiverse.com/thing:6684717) |
+
 ### Units with strong conversion evidence but currently out of stock or limited availability
 
 | Model | BTU | Noise (dBA) | Energy Class | Last Known Price (£) | Air Outlet | Conversion Evidence | 3D Models | Notes |
@@ -122,6 +125,41 @@ All use 150mm (5.9") hose connections. The MPPFA series shares the same chassis 
 
 **Stock status (April 2026):** Listed on Amazon UK. The Beko BP209H is also the only unit in this list that includes a heating function, which may be useful for year-round value.
 
+### MeacoCool MC Series 10000
+
+- **Cooling capacity:** 10,000 BTU/h (2.9 kW)
+- **Noise:** 53 dB(A) min, 63 dB(A) max
+- **Energy class:** A
+- **Room coverage:** Up to 28 m²
+- **Power:** 1,110W
+- **Airflow:** 325 m³/h
+- **Features:** Remote control, 24h timer, oscillating louvres, 2 fan speeds, sleep mode, dual window kits included
+- **Running cost:** ~33p/hour
+- **Warranty:** 3 years
+- **Weight:** ~33 kg
+
+**Conversion approach:** A dual-hose conversion design exists on [Thingiverse #6684717](https://www.thingiverse.com/thing:6684717), created for the MC10000 CHR PRO model. The MC Series units share the same chassis and 150mm exhaust hose diameter, so the adapter should fit the cooling-only MC10000 as well. Meaco also sells an official [machine adaptor](https://www.meaco.com/products/meacocool-mc-machine-adaptor-square-section) (£14.99) for the exhaust connection.
+
+**Stock status (April 2026):** In stock at Meaco UK (meacodehumidifiers.co.uk) at £419.99 with Add to Cart available. Also on Amazon UK. Meaco is a UK brand with UK-based support and 3-year warranty.
+
+---
+
+### MeacoCool MC Series 12000
+
+- **Cooling capacity:** 12,000 BTU/h (3.5 kW)
+- **Noise:** ≤65 dB(A)
+- **Energy class:** A
+- **Room coverage:** Up to 30 m²
+- **Power:** 1,300W
+- **Airflow:** 410 m³/h
+- **Features:** Remote control, 24h timer, oscillating louvres, 2 fan speeds, sleep mode, dual window kits included
+- **Running cost:** ~39p/hour
+- **Warranty:** 3 years
+
+**Conversion approach:** Same MC Series chassis as the MC10000. The [Thingiverse #6684717](https://www.thingiverse.com/thing:6684717) dual-hose conversion should be compatible, though it was tested on the 10000 BTU variant. The 12000 uses a 150mm exhaust hose and shares the same body design.
+
+**Stock status (April 2026):** In stock at Meaco UK (meacodehumidifiers.co.uk) at £479.99 with Add to Cart available. Best value for 12,000 BTU among in-stock units.
+
 ---
 
 ## Conversion Resources
@@ -158,6 +196,7 @@ For units without a model-specific adapter, the [Thingiverse #4976916](https://w
 - [Printables — Beko BP209H Adapter (#968846)](https://www.printables.com/model/968846-beko-bp209h-portable-air-conditioner-dual-hose-ada)
 - [Printables — AEG ChillFlex Mod (#498072)](https://www.printables.com/model/498072-dual-hose-mod-for-aeg-chillflex)
 - [Thingiverse — Comfee MPPH Dual-Hose Kit (#6670170)](https://www.thingiverse.com/thing:6670170)
+- [Thingiverse — Meaco MC Dual-Hose Conversion (#6684717)](https://www.thingiverse.com/thing:6684717)
 - [Thingiverse — Generic Dual-Hose Conversion Plate (#4976916)](https://www.thingiverse.com/thing:4976916/files)
 - [MakerWorld — Comfee Two-Hose Conversion (#2261362)](https://makerworld.com/en/models/2261362-comfee-mobile-air-conditioner-two-hose-conversion)
 - [MakerWorld — AEG ChillFlex Conversion (#1641897)](https://makerworld.com/en/models/1641897-dual-hose-conversion-for-the-aeg-chilllex)

@@ -73,6 +73,19 @@ This index catalogues 3D-printable parts for converting single-hose portable AC 
 
 ---
 
+## Meaco MeacoCool MC Series
+
+### MC Series Dual-Hose Conversion
+
+- **Source:** [Thingiverse #6684717](https://www.thingiverse.com/thing:6684717)
+- **Author:** TeeJay58
+- **Tested on:** MC10000 CHR PRO
+- **Compatible models:** MeacoCool MC Series (shared chassis — 7000/8000/9000/10000/12000 BTU variants use the same body with 150mm exhaust)
+- **Hose size:** 150mm
+- **Description:** Adds a second hose to the Meaco MC air conditioner for dual-hose operation
+
+---
+
 ## AEG ChillFlex Series
 
 ### Dual-Hose Mod for AEG ChillFlex (Pro)
